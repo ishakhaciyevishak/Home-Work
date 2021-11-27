@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-size: 40px;
+}
+
+i{
+    font-size: inherit;
+    font-weight: bolder;
+}
+
+body{
+    background-image: url(../Home-Work/img/1579538579-screen-shot-2020-01-20-at-16-40-42-copy.png);
+    background-size: 100% 120vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    border: 3px solid #B1C1C1; 
+    padding-top: 50px;
+    text-align: center;
+} 
+.ht{
+    font-size: 60px;
+}
+
+table th{
+    background-color: rgb(196, 24, 181);
+}
+
+table {
+    position: center;
+    top: 200px;
+    margin-bottom: 50px;
+    width: 100%;
+}
+
+.img1{
+    position: fixed;
+    top: 200px;
+    left: 15px;
+}
+.img2{
+    position: fixed;
+    top: 200px;
+    right: 15px;
+}
+
+.av{
+    display: inline-block;
+    margin: 40px auto 10px;
+}
+
+.av audio{
+    display: inline-block;
+    margin: auto;
+    width: 100%;
+}
+
+.dd{
+    width: 37.3%;
+    margin: auto;
+}
+
